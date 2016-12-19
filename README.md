@@ -10,4 +10,7 @@
 
 ![Imgur](http://i.imgur.com/W2f1514.png)
 
-Some keyword are not correct color.(*** setup() ***, *** draw() ***, void and so on)
+You also install [processing-language](https://atom.io/packages/processing-language).
+
+
+Some keyword are not correct color.(** setup() ** , ** draw() **, *void* and so on)
