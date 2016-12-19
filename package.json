@@ -1,0 +1,18 @@
+{
+  "name": "pde-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light theme based on PDE, Processing IDE.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light",
+    "pde",
+    "processing"
+  ],
+  "repository": "https://github.com/Niishi/pde-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
