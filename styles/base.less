@@ -54,6 +54,14 @@ atom-text-editor, :host {
   }
 }
 
+.bracket-matcher .region {
+  position: absolute;
+  border: 1px solid @function1;
+}
+.minimap-selection .region {
+  background: @syntax-selection-color;
+}
+
 atom-text-editor .search-results .marker .region,
 :host .search-results .marker .region {
   background-color: transparent;

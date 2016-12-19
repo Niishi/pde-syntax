@@ -13,4 +13,4 @@
 You also install [processing-language](https://atom.io/packages/processing-language).
 
 
-Some keyword are not correct color.(** setup() ** , ** draw() **, *void* and so on)
+Some keyword are not correct color.(**setup()** , **draw()** , *void* and so on)
